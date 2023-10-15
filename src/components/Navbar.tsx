@@ -22,7 +22,7 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
-      <button className="bg-primary text-white text-sm py-3 px-6 rounded-full">Register / Login</button>
+      <button className="bg-primary text-white text-sm py-3 px-6 rounded-full transition-all hover:brightness-75">Register / Login</button>
     </nav>
   )
 }
